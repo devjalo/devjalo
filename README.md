@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### My current projects: :sunglasses:
-- [Homies.Network](https://homies.network), Platform for gamers, content-creators
-- [Homie](https://bot.homies.network), Discord bot with multiple features
+- [HNET.gg](https://hnet.gg), Platform for gamers, content-creators
+- [Homie](https://hnet.gg/bot/), Discord bot with multiple features
 
 ### Come say hi! (Discord)
 - Me: `devjan89#1337`
